@@ -1,0 +1,13 @@
+Backend Environment:
+        URL: http://udagram-api-dev.eba-igpzdpsh.us-east-1.elasticbeanstalk.com/
+        Database endpoint: database-1.c6lozgwarpkj.us-east-1.rds.amazonaws.com
+        Application name: udagram-api
+        Environment name: udagram-api-dev
+
+Frontend Environment:
+        S3 bucket: my-01033674227-bucket
+        S3 URL: http://my-01033674227-bucket.s3-website-us-east-1.amazonaws.com
+
+  Deployment Pipeline:
+        CircleCI 
+        GitHub project - https://github.com/mosh3ban/Udacity-Udagram
